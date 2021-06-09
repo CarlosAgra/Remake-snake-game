@@ -1,0 +1,9 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Utilizado para invertar os eixos X e Y, assim fazendo os itens ficarem um abaixo do outro */
+    color: rgb(86, 52, 165);
+}
